@@ -17,7 +17,7 @@ Max Nguyen \
 Zayd Alzein \
 Rahul Gowda \
 Edward Weng \
-Tuong Max Le
+Tuong Max Le \
 Dong June Park \
 
 # How to Contribute
